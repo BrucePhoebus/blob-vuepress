@@ -1,0 +1,19 @@
+{
+  "name": "blob-vuepress",
+  "version": "1.0.0",
+  "description": "使用vuePress创建自己的博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrucePhoebus/blob-vuepress.git"
+  },
+  "author": "Phoebus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrucePhoebus/blob-vuepress/issues"
+  },
+  "homepage": "https://github.com/BrucePhoebus/blob-vuepress#readme"
+}
