@@ -1,11 +1,13 @@
 module.exports = {
-    title: '个人主页',
-    description: 'Phoebus的博客',
+    title: 'Phoebus的博客',
+    description: '每天学点新东西',
     head: [
         ['link', {rel: 'icon', href: '/img/logo.ico'}],
         ['link', {rel: 'manifest', href: '/manifest.json'}],
     ],
     themeConfig: {
+        docsDir: 'docs',
+        repoLabel: '查看源码',
         nav: [
             {
                 text: '主页', link: '/',

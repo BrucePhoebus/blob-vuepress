@@ -4,7 +4,7 @@
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#2196f3",
-    "description": "Phoebus的个人主页",
+    "description": "Phoebus的博客",
     "theme_color": "blue",
     "icons": [
         {
